@@ -253,7 +253,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"living-systems.tmj#entry-from-tropical-forest"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems#entry-from-tropical-forest"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -270,7 +270,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tropical-forest-temple.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tropical-forest"
                         }],
                  "rotation":0,
                  "type":"area",

@@ -279,7 +279,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-main-building.tmj#entry-from-resting-room"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-main-building#entry-from-resting-room"
                         }],
                  "rotation":0,
                  "type":"area",

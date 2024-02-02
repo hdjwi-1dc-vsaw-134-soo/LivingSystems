@@ -367,7 +367,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-elevator-right-2.tmj#entry-from-elevator-1"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-elevator-r2#entry-from-elevator-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -384,7 +384,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"living-systems.tmj#entry-from-elevator-right-1"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems#entry-from-elevator-right-1"
                         }],
                  "rotation":0,
                  "type":"area",

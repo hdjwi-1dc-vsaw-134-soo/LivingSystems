@@ -1378,7 +1378,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-elevator-right-3.tmj#entry-from-ls"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-elevator-r3#entry-from-ls"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1395,7 +1395,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-elevator-right-2.tmj#entry-from-ls"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-elevator-r2#entry-from-ls"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1412,7 +1412,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-elevator-left-3.tmj#entry-from-ls"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-elevator-l3#entry-from-ls"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1429,7 +1429,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-magic-room.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-magic-room"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1446,7 +1446,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-music-room.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-music-room"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1463,7 +1463,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-music-room.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-music-room"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1480,7 +1480,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-music-room.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-music-room"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1497,7 +1497,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-main-building.tmj#entry-from-ls-2"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-main-building#entry-from-ls-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1514,7 +1514,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-main-building.tmj#entry-from-ls-1"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-main-building#entry-from-ls-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1531,7 +1531,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-gathering-room.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-gathering-room"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1548,7 +1548,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-orb-hut-c.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-orb-hut-c"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1565,7 +1565,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-orb-hut-b.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-orb-hut-b"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1582,7 +1582,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-orb-hut-a.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-orb-hut-a"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1599,7 +1599,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tl-group-work-room.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---tl-group-work-room"
                         }],
                  "rotation":0,
                  "type":"area",

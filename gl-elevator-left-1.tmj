@@ -411,7 +411,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"living-systems.tmj#entry-from-elevator-left-1"
+                         "value":"[\n    {\n        \"name\": \"exitUrl\",\n        \"propertytype\": \"\",\n        \"type\": \"string\",\n        \"value\": \"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems#entry-from-machu-picchu\"\n    }\n]\n#entry-from-elevator-left-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -428,7 +428,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gl-elevator-left-2.tmj#entry-from-elevator-1"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---gl-elevator-l2#entry-from-elevator-1"
                         }],
                  "rotation":0,
                  "type":"area",
