@@ -8016,7 +8016,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "living-systems-tree-level.tmj#entry-from-orb-hut-c"
+              "value": "https://play.workadventu.re/@/workspacesky/living-systems/living-systems-tree-level#entry-from-orb-hut-c"
             }
           ],
           "rotation": 0,
@@ -10031,7 +10031,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "tl-orb-hut-c-chunk-1-38cdf957.png",
+      "image": "tl-orb-hut-c-chunk-1-815b2566.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10107,7 +10107,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "tl-orb-hut-c-chunk-2-38cdf957.png",
+      "image": "tl-orb-hut-c-chunk-2-815b2566.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10122,7 +10122,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "tl-orb-hut-c-chunk-3-38cdf957.png",
+      "image": "tl-orb-hut-c-chunk-3-815b2566.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10137,7 +10137,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "tl-orb-hut-c-chunk-4-38cdf957.png",
+      "image": "tl-orb-hut-c-chunk-4-815b2566.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10152,7 +10152,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "tl-orb-hut-c-chunk-5-38cdf957.png",
+      "image": "tl-orb-hut-c-chunk-5-815b2566.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10167,7 +10167,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "tl-orb-hut-c-chunk-6-38cdf957.png",
+      "image": "tl-orb-hut-c-chunk-6-815b2566.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10182,7 +10182,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "tl-orb-hut-c-chunk-7-38cdf957.png",
+      "image": "tl-orb-hut-c-chunk-7-815b2566.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10197,7 +10197,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "tl-orb-hut-c-chunk-8-38cdf957.png",
+      "image": "tl-orb-hut-c-chunk-8-815b2566.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10212,7 +10212,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "tl-orb-hut-c-chunk-9-38cdf957.png",
+      "image": "tl-orb-hut-c-chunk-9-815b2566.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10227,7 +10227,7 @@
     {
       "columns": 3,
       "firstgid": 2305,
-      "image": "tl-orb-hut-c-chunk-10-38cdf957.png",
+      "image": "tl-orb-hut-c-chunk-10-815b2566.png",
       "imageheight": 96,
       "imagewidth": 96,
       "margin": 0,

@@ -14013,7 +14013,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "tl-elevator-right-2.tmj#entry-from-elevator-1"
+              "value": "https://play.workadventu.re/@/workspacesky/living-systems/living-systems---tl-elevator-r2#entry-from-elevator-1"
             }
           ],
           "rotation": 0,
@@ -14031,7 +14031,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "living-systems.tmj#entry-from-elevator-right-1"
+              "value": "https://play.workadventu.re/@/workspacesky/living-systems/living-systems#entry-from-elevator-right-1"
             }
           ],
           "rotation": 0,
@@ -14053,7 +14053,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "gl-elevator-right-1-chunk-1-a854326f.png",
+      "image": "gl-elevator-right-1-chunk-1-6e27d4d3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14089,7 +14089,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "gl-elevator-right-1-chunk-2-a854326f.png",
+      "image": "gl-elevator-right-1-chunk-2-6e27d4d3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14104,7 +14104,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "gl-elevator-right-1-chunk-3-a854326f.png",
+      "image": "gl-elevator-right-1-chunk-3-6e27d4d3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14119,7 +14119,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "gl-elevator-right-1-chunk-4-a854326f.png",
+      "image": "gl-elevator-right-1-chunk-4-6e27d4d3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14134,7 +14134,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "gl-elevator-right-1-chunk-5-a854326f.png",
+      "image": "gl-elevator-right-1-chunk-5-6e27d4d3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14149,7 +14149,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "gl-elevator-right-1-chunk-6-a854326f.png",
+      "image": "gl-elevator-right-1-chunk-6-6e27d4d3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14164,7 +14164,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "gl-elevator-right-1-chunk-7-a854326f.png",
+      "image": "gl-elevator-right-1-chunk-7-6e27d4d3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14179,7 +14179,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "gl-elevator-right-1-chunk-8-a854326f.png",
+      "image": "gl-elevator-right-1-chunk-8-6e27d4d3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14194,7 +14194,7 @@
     {
       "columns": 6,
       "firstgid": 2049,
-      "image": "gl-elevator-right-1-chunk-9-a854326f.png",
+      "image": "gl-elevator-right-1-chunk-9-6e27d4d3.png",
       "imageheight": 192,
       "imagewidth": 192,
       "margin": 0,

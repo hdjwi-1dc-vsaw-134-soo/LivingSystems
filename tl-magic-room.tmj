@@ -8016,7 +8016,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "living-systems-tree-level.tmj#entry-from-magic-room"
+              "value": "https://play.workadventu.re/@/workspacesky/living-systems/living-systems-tree-level#entry-from-magic-room"
             }
           ],
           "rotation": 0,
@@ -10031,7 +10031,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "tl-magic-room-chunk-1-3201ddb6.png",
+      "image": "tl-magic-room-chunk-1-41041b35.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10107,7 +10107,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "tl-magic-room-chunk-2-3201ddb6.png",
+      "image": "tl-magic-room-chunk-2-41041b35.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10122,7 +10122,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "tl-magic-room-chunk-3-3201ddb6.png",
+      "image": "tl-magic-room-chunk-3-41041b35.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10137,7 +10137,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "tl-magic-room-chunk-4-3201ddb6.png",
+      "image": "tl-magic-room-chunk-4-41041b35.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10152,7 +10152,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "tl-magic-room-chunk-5-3201ddb6.png",
+      "image": "tl-magic-room-chunk-5-41041b35.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10167,7 +10167,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "tl-magic-room-chunk-6-3201ddb6.png",
+      "image": "tl-magic-room-chunk-6-41041b35.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10182,7 +10182,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "tl-magic-room-chunk-7-3201ddb6.png",
+      "image": "tl-magic-room-chunk-7-41041b35.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10197,7 +10197,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "tl-magic-room-chunk-8-3201ddb6.png",
+      "image": "tl-magic-room-chunk-8-41041b35.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10212,7 +10212,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "tl-magic-room-chunk-9-3201ddb6.png",
+      "image": "tl-magic-room-chunk-9-41041b35.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10227,7 +10227,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "tl-magic-room-chunk-10-3201ddb6.png",
+      "image": "tl-magic-room-chunk-10-41041b35.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10242,7 +10242,7 @@
     {
       "columns": 15,
       "firstgid": 2561,
-      "image": "tl-magic-room-chunk-11-3201ddb6.png",
+      "image": "tl-magic-room-chunk-11-41041b35.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,

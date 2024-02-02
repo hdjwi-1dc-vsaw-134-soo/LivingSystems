@@ -14022,7 +14022,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "living-systems.tmj#entry-from-restaurant-2"
+              "value": "[\n    {\n        \"name\": \"exitUrl\",\n        \"propertytype\": \"\",\n        \"type\": \"string\",\n        \"value\": \"https://play.workadventu.re/@/workspacesky/living-systems/living-systems#entry-from-machu-picchu\"\n    }\n]\n#entry-from-restaurant-2"
             }
           ],
           "rotation": 0,
@@ -14040,7 +14040,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "living-systems.tmj#entry-from-restaurant-1"
+              "value": "[\n    {\n        \"name\": \"exitUrl\",\n        \"propertytype\": \"\",\n        \"type\": \"string\",\n        \"value\": \"https://play.workadventu.re/@/workspacesky/living-systems/living-systems#entry-from-machu-picchu\"\n    }\n]\n#entry-from-restaurant-1"
             }
           ],
           "rotation": 0,
@@ -16055,7 +16055,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "gl-restaurant-chunk-1-acde1f24.png",
+      "image": "gl-restaurant-chunk-1-8d2afdb1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16291,7 +16291,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "gl-restaurant-chunk-2-acde1f24.png",
+      "image": "gl-restaurant-chunk-2-8d2afdb1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16306,7 +16306,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "gl-restaurant-chunk-3-acde1f24.png",
+      "image": "gl-restaurant-chunk-3-8d2afdb1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16321,7 +16321,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "gl-restaurant-chunk-4-acde1f24.png",
+      "image": "gl-restaurant-chunk-4-8d2afdb1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16336,7 +16336,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "gl-restaurant-chunk-5-acde1f24.png",
+      "image": "gl-restaurant-chunk-5-8d2afdb1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16351,7 +16351,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "gl-restaurant-chunk-6-acde1f24.png",
+      "image": "gl-restaurant-chunk-6-8d2afdb1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16366,7 +16366,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "gl-restaurant-chunk-7-acde1f24.png",
+      "image": "gl-restaurant-chunk-7-8d2afdb1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16381,7 +16381,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "gl-restaurant-chunk-8-acde1f24.png",
+      "image": "gl-restaurant-chunk-8-8d2afdb1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16396,7 +16396,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "gl-restaurant-chunk-9-acde1f24.png",
+      "image": "gl-restaurant-chunk-9-8d2afdb1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16411,7 +16411,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "gl-restaurant-chunk-10-acde1f24.png",
+      "image": "gl-restaurant-chunk-10-8d2afdb1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16426,7 +16426,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "gl-restaurant-chunk-11-acde1f24.png",
+      "image": "gl-restaurant-chunk-11-8d2afdb1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16441,7 +16441,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "gl-restaurant-chunk-12-acde1f24.png",
+      "image": "gl-restaurant-chunk-12-8d2afdb1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16456,7 +16456,7 @@
     {
       "columns": 14,
       "firstgid": 3073,
-      "image": "gl-restaurant-chunk-13-acde1f24.png",
+      "image": "gl-restaurant-chunk-13-8d2afdb1.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,

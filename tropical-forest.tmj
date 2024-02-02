@@ -24291,7 +24291,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "living-systems.tmj#entry-from-tropical-forest"
+              "value": "https://play.workadventu.re/@/workspacesky/living-systems/living-systems#entry-from-tropical-forest"
             }
           ],
           "rotation": 0,
@@ -24309,7 +24309,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "tropical-forest-temple.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/living-systems/living-systems---tropical-forest"
             }
           ],
           "rotation": 0,
@@ -29180,7 +29180,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "tropical-forest-chunk-1-24d40a33.png",
+      "image": "tropical-forest-chunk-1-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29336,7 +29336,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "tropical-forest-chunk-2-24d40a33.png",
+      "image": "tropical-forest-chunk-2-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29351,7 +29351,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "tropical-forest-chunk-3-24d40a33.png",
+      "image": "tropical-forest-chunk-3-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29366,7 +29366,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "tropical-forest-chunk-4-24d40a33.png",
+      "image": "tropical-forest-chunk-4-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29381,7 +29381,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "tropical-forest-chunk-5-24d40a33.png",
+      "image": "tropical-forest-chunk-5-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29396,7 +29396,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "tropical-forest-chunk-6-24d40a33.png",
+      "image": "tropical-forest-chunk-6-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29411,7 +29411,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "tropical-forest-chunk-7-24d40a33.png",
+      "image": "tropical-forest-chunk-7-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29426,7 +29426,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "tropical-forest-chunk-8-24d40a33.png",
+      "image": "tropical-forest-chunk-8-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29441,7 +29441,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "tropical-forest-chunk-9-24d40a33.png",
+      "image": "tropical-forest-chunk-9-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29456,7 +29456,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "tropical-forest-chunk-10-24d40a33.png",
+      "image": "tropical-forest-chunk-10-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29471,7 +29471,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "tropical-forest-chunk-11-24d40a33.png",
+      "image": "tropical-forest-chunk-11-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29486,7 +29486,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "tropical-forest-chunk-12-24d40a33.png",
+      "image": "tropical-forest-chunk-12-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29501,7 +29501,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "tropical-forest-chunk-13-24d40a33.png",
+      "image": "tropical-forest-chunk-13-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29516,7 +29516,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "tropical-forest-chunk-14-24d40a33.png",
+      "image": "tropical-forest-chunk-14-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29531,7 +29531,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "tropical-forest-chunk-15-24d40a33.png",
+      "image": "tropical-forest-chunk-15-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29546,7 +29546,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "tropical-forest-chunk-16-24d40a33.png",
+      "image": "tropical-forest-chunk-16-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29561,7 +29561,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "tropical-forest-chunk-17-24d40a33.png",
+      "image": "tropical-forest-chunk-17-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29576,7 +29576,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "tropical-forest-chunk-18-24d40a33.png",
+      "image": "tropical-forest-chunk-18-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29591,7 +29591,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "tropical-forest-chunk-19-24d40a33.png",
+      "image": "tropical-forest-chunk-19-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29606,7 +29606,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "tropical-forest-chunk-20-24d40a33.png",
+      "image": "tropical-forest-chunk-20-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29621,7 +29621,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "tropical-forest-chunk-21-24d40a33.png",
+      "image": "tropical-forest-chunk-21-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29636,7 +29636,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "tropical-forest-chunk-22-24d40a33.png",
+      "image": "tropical-forest-chunk-22-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29651,7 +29651,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "tropical-forest-chunk-23-24d40a33.png",
+      "image": "tropical-forest-chunk-23-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29666,7 +29666,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "tropical-forest-chunk-24-24d40a33.png",
+      "image": "tropical-forest-chunk-24-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29681,7 +29681,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "tropical-forest-chunk-25-24d40a33.png",
+      "image": "tropical-forest-chunk-25-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29696,7 +29696,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "tropical-forest-chunk-26-24d40a33.png",
+      "image": "tropical-forest-chunk-26-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29711,7 +29711,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "tropical-forest-chunk-27-24d40a33.png",
+      "image": "tropical-forest-chunk-27-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29726,7 +29726,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "tropical-forest-chunk-28-24d40a33.png",
+      "image": "tropical-forest-chunk-28-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29741,7 +29741,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "tropical-forest-chunk-29-24d40a33.png",
+      "image": "tropical-forest-chunk-29-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29756,7 +29756,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "tropical-forest-chunk-30-24d40a33.png",
+      "image": "tropical-forest-chunk-30-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29771,7 +29771,7 @@
     {
       "columns": 16,
       "firstgid": 7681,
-      "image": "tropical-forest-chunk-31-24d40a33.png",
+      "image": "tropical-forest-chunk-31-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29786,7 +29786,7 @@
     {
       "columns": 16,
       "firstgid": 7937,
-      "image": "tropical-forest-chunk-32-24d40a33.png",
+      "image": "tropical-forest-chunk-32-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29801,7 +29801,7 @@
     {
       "columns": 16,
       "firstgid": 8193,
-      "image": "tropical-forest-chunk-33-24d40a33.png",
+      "image": "tropical-forest-chunk-33-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29816,7 +29816,7 @@
     {
       "columns": 16,
       "firstgid": 8449,
-      "image": "tropical-forest-chunk-34-24d40a33.png",
+      "image": "tropical-forest-chunk-34-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29831,7 +29831,7 @@
     {
       "columns": 16,
       "firstgid": 8705,
-      "image": "tropical-forest-chunk-35-24d40a33.png",
+      "image": "tropical-forest-chunk-35-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29846,7 +29846,7 @@
     {
       "columns": 16,
       "firstgid": 8961,
-      "image": "tropical-forest-chunk-36-24d40a33.png",
+      "image": "tropical-forest-chunk-36-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29861,7 +29861,7 @@
     {
       "columns": 16,
       "firstgid": 9217,
-      "image": "tropical-forest-chunk-37-24d40a33.png",
+      "image": "tropical-forest-chunk-37-55d15299.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29876,7 +29876,7 @@
     {
       "columns": 15,
       "firstgid": 9473,
-      "image": "tropical-forest-chunk-38-24d40a33.png",
+      "image": "tropical-forest-chunk-38-55d15299.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,

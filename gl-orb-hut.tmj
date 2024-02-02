@@ -8016,7 +8016,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "living-systems.tmj#entry-from-orb-hut"
+              "value": "[\n    {\n        \"name\": \"exitUrl\",\n        \"propertytype\": \"\",\n        \"type\": \"string\",\n        \"value\": \"https://play.workadventu.re/@/workspacesky/living-systems/living-systems#entry-from-machu-picchu\"\n    }\n]\n#entry-from-orb-hut"
             }
           ],
           "rotation": 0,
@@ -8038,7 +8038,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "gl-orb-hut-chunk-1-2b35dc99.png",
+      "image": "gl-orb-hut-chunk-1-dcfd817d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8114,7 +8114,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "gl-orb-hut-chunk-2-2b35dc99.png",
+      "image": "gl-orb-hut-chunk-2-dcfd817d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8129,7 +8129,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "gl-orb-hut-chunk-3-2b35dc99.png",
+      "image": "gl-orb-hut-chunk-3-dcfd817d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8144,7 +8144,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "gl-orb-hut-chunk-4-2b35dc99.png",
+      "image": "gl-orb-hut-chunk-4-dcfd817d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8159,7 +8159,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "gl-orb-hut-chunk-5-2b35dc99.png",
+      "image": "gl-orb-hut-chunk-5-dcfd817d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8174,7 +8174,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "gl-orb-hut-chunk-6-2b35dc99.png",
+      "image": "gl-orb-hut-chunk-6-dcfd817d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8189,7 +8189,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "gl-orb-hut-chunk-7-2b35dc99.png",
+      "image": "gl-orb-hut-chunk-7-dcfd817d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8204,7 +8204,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "gl-orb-hut-chunk-8-2b35dc99.png",
+      "image": "gl-orb-hut-chunk-8-dcfd817d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8219,7 +8219,7 @@
     {
       "columns": 11,
       "firstgid": 2049,
-      "image": "gl-orb-hut-chunk-9-2b35dc99.png",
+      "image": "gl-orb-hut-chunk-9-dcfd817d.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,

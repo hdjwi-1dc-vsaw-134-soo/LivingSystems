@@ -10027,7 +10027,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "tl-main-building.tmj#entry-from-resting-room"
+              "value": "https://play.workadventu.re/@/workspacesky/living-systems/living-systems---tl-main-building#entry-from-resting-room"
             }
           ],
           "rotation": 0,
@@ -12042,7 +12042,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "tl-resting-room-chunk-1-9418ce61.png",
+      "image": "tl-resting-room-chunk-1-df19043c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12198,7 +12198,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "tl-resting-room-chunk-2-9418ce61.png",
+      "image": "tl-resting-room-chunk-2-df19043c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12213,7 +12213,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "tl-resting-room-chunk-3-9418ce61.png",
+      "image": "tl-resting-room-chunk-3-df19043c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12228,7 +12228,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "tl-resting-room-chunk-4-9418ce61.png",
+      "image": "tl-resting-room-chunk-4-df19043c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12243,7 +12243,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "tl-resting-room-chunk-5-9418ce61.png",
+      "image": "tl-resting-room-chunk-5-df19043c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12258,7 +12258,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "tl-resting-room-chunk-6-9418ce61.png",
+      "image": "tl-resting-room-chunk-6-df19043c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12273,7 +12273,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "tl-resting-room-chunk-7-9418ce61.png",
+      "image": "tl-resting-room-chunk-7-df19043c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12288,7 +12288,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "tl-resting-room-chunk-8-9418ce61.png",
+      "image": "tl-resting-room-chunk-8-df19043c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12303,7 +12303,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "tl-resting-room-chunk-9-9418ce61.png",
+      "image": "tl-resting-room-chunk-9-df19043c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12318,7 +12318,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "tl-resting-room-chunk-10-9418ce61.png",
+      "image": "tl-resting-room-chunk-10-df19043c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12333,7 +12333,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "tl-resting-room-chunk-11-9418ce61.png",
+      "image": "tl-resting-room-chunk-11-df19043c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12348,7 +12348,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "tl-resting-room-chunk-12-9418ce61.png",
+      "image": "tl-resting-room-chunk-12-df19043c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12363,7 +12363,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "tl-resting-room-chunk-13-9418ce61.png",
+      "image": "tl-resting-room-chunk-13-df19043c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12378,7 +12378,7 @@
     {
       "columns": 10,
       "firstgid": 3329,
-      "image": "tl-resting-room-chunk-14-9418ce61.png",
+      "image": "tl-resting-room-chunk-14-df19043c.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,

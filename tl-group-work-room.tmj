@@ -8016,7 +8016,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "living-systems-tree-level.tmj#entry-from-group-work-room"
+              "value": "https://play.workadventu.re/@/workspacesky/living-systems/living-systems-tree-level#entry-from-group-work-room"
             }
           ],
           "rotation": 0,
@@ -10031,7 +10031,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "tl-group-work-room-chunk-1-4f395bec.png",
+      "image": "tl-group-work-room-chunk-1-d2abbe8b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10227,7 +10227,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "tl-group-work-room-chunk-2-4f395bec.png",
+      "image": "tl-group-work-room-chunk-2-d2abbe8b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10242,7 +10242,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "tl-group-work-room-chunk-3-4f395bec.png",
+      "image": "tl-group-work-room-chunk-3-d2abbe8b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10257,7 +10257,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "tl-group-work-room-chunk-4-4f395bec.png",
+      "image": "tl-group-work-room-chunk-4-d2abbe8b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10272,7 +10272,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "tl-group-work-room-chunk-5-4f395bec.png",
+      "image": "tl-group-work-room-chunk-5-d2abbe8b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10287,7 +10287,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "tl-group-work-room-chunk-6-4f395bec.png",
+      "image": "tl-group-work-room-chunk-6-d2abbe8b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10302,7 +10302,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "tl-group-work-room-chunk-7-4f395bec.png",
+      "image": "tl-group-work-room-chunk-7-d2abbe8b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10317,7 +10317,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "tl-group-work-room-chunk-8-4f395bec.png",
+      "image": "tl-group-work-room-chunk-8-d2abbe8b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10332,7 +10332,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "tl-group-work-room-chunk-9-4f395bec.png",
+      "image": "tl-group-work-room-chunk-9-d2abbe8b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10347,7 +10347,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "tl-group-work-room-chunk-10-4f395bec.png",
+      "image": "tl-group-work-room-chunk-10-d2abbe8b.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10362,7 +10362,7 @@
     {
       "columns": 4,
       "firstgid": 2561,
-      "image": "tl-group-work-room-chunk-11-4f395bec.png",
+      "image": "tl-group-work-room-chunk-11-d2abbe8b.png",
       "imageheight": 128,
       "imagewidth": 128,
       "margin": 0,
