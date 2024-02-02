@@ -8016,7 +8016,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "https://play.workadventu.re/@/workspacesky/living-systems/living-systems\n#entry-from-tree-stem-hut"
+              "value": "https://play.workadventu.re/@/workspacesky/living-systems/living-systems#entry-from-tree-stem-hut"
             }
           ],
           "rotation": 0,
@@ -10031,7 +10031,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "gl-tree-stem-hut-chunk-1-65537420.png",
+      "image": "gl-tree-stem-hut-chunk-1-924d7578.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10187,7 +10187,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "gl-tree-stem-hut-chunk-2-65537420.png",
+      "image": "gl-tree-stem-hut-chunk-2-924d7578.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10202,7 +10202,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "gl-tree-stem-hut-chunk-3-65537420.png",
+      "image": "gl-tree-stem-hut-chunk-3-924d7578.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10217,7 +10217,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "gl-tree-stem-hut-chunk-4-65537420.png",
+      "image": "gl-tree-stem-hut-chunk-4-924d7578.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10232,7 +10232,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "gl-tree-stem-hut-chunk-5-65537420.png",
+      "image": "gl-tree-stem-hut-chunk-5-924d7578.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10247,7 +10247,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "gl-tree-stem-hut-chunk-6-65537420.png",
+      "image": "gl-tree-stem-hut-chunk-6-924d7578.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10262,7 +10262,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "gl-tree-stem-hut-chunk-7-65537420.png",
+      "image": "gl-tree-stem-hut-chunk-7-924d7578.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10277,7 +10277,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "gl-tree-stem-hut-chunk-8-65537420.png",
+      "image": "gl-tree-stem-hut-chunk-8-924d7578.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10292,7 +10292,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "gl-tree-stem-hut-chunk-9-65537420.png",
+      "image": "gl-tree-stem-hut-chunk-9-924d7578.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10307,7 +10307,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "gl-tree-stem-hut-chunk-10-65537420.png",
+      "image": "gl-tree-stem-hut-chunk-10-924d7578.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10322,7 +10322,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "gl-tree-stem-hut-chunk-11-65537420.png",
+      "image": "gl-tree-stem-hut-chunk-11-924d7578.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10337,7 +10337,7 @@
     {
       "columns": 9,
       "firstgid": 2817,
-      "image": "gl-tree-stem-hut-chunk-12-65537420.png",
+      "image": "gl-tree-stem-hut-chunk-12-924d7578.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
