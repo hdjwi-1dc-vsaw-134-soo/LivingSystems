@@ -219,7 +219,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"[\n    {\n        \"name\": \"exitUrl\",\n        \"propertytype\": \"\",\n        \"type\": \"string\",\n        \"value\": \"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems#entry-from-machu-picchu\"\n    }\n]\n#entry-from-tree-stem-hut"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems\n#entry-from-tree-stem-hut"
                         }],
                  "rotation":0,
                  "type":"area",

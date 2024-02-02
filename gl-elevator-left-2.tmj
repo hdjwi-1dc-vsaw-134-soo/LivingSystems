@@ -467,7 +467,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"[\n    {\n        \"name\": \"exitUrl\",\n        \"propertytype\": \"\",\n        \"type\": \"string\",\n        \"value\": \"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems#entry-from-machu-picchu\"\n    }\n]\n#entry-from-elevator-left-2"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems#entry-from-elevator-left-2"
                         }],
                  "rotation":0,
                  "type":"area",

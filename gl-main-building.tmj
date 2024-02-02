@@ -351,7 +351,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gl-restaurant.tmj#entry-from-main-building"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems---gl-restaurant#entry-from-main-building"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -368,7 +368,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"[\n    {\n        \"name\": \"exitUrl\",\n        \"propertytype\": \"\",\n        \"type\": \"string\",\n        \"value\": \"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems#entry-from-machu-picchu\"\n    }\n]\n#entry-from-main-building-2"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems#entry-from-main-building-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -385,7 +385,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"[\n    {\n        \"name\": \"exitUrl\",\n        \"propertytype\": \"\",\n        \"type\": \"string\",\n        \"value\": \"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems#entry-from-machu-picchu\"\n    }\n]\n#entry-from-main-building-2"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems#entry-from-main-building-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -402,7 +402,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"[\n    {\n        \"name\": \"exitUrl\",\n        \"propertytype\": \"\",\n        \"type\": \"string\",\n        \"value\": \"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems#entry-from-machu-picchu\"\n    }\n]\n#entry-from-main-building-1"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems#entry-from-main-building-1"
                         }],
                  "rotation":0,
                  "type":"area",
