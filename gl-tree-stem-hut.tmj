@@ -219,7 +219,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems\n#entry-from-tree-stem-hut"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems#entry-from-tree-stem-hut"
                         }],
                  "rotation":0,
                  "type":"area",
