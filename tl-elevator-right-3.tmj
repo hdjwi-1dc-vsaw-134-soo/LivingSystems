@@ -14053,7 +14053,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "tl-elevator-right-3-chunk-1-d7e4be37.png",
+      "image": "tl-elevator-right-3-chunk-1-b685578d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14089,7 +14089,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "tl-elevator-right-3-chunk-2-d7e4be37.png",
+      "image": "tl-elevator-right-3-chunk-2-b685578d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14104,7 +14104,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "tl-elevator-right-3-chunk-3-d7e4be37.png",
+      "image": "tl-elevator-right-3-chunk-3-b685578d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14119,7 +14119,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "tl-elevator-right-3-chunk-4-d7e4be37.png",
+      "image": "tl-elevator-right-3-chunk-4-b685578d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14134,7 +14134,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "tl-elevator-right-3-chunk-5-d7e4be37.png",
+      "image": "tl-elevator-right-3-chunk-5-b685578d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14149,7 +14149,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "tl-elevator-right-3-chunk-6-d7e4be37.png",
+      "image": "tl-elevator-right-3-chunk-6-b685578d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14164,7 +14164,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "tl-elevator-right-3-chunk-7-d7e4be37.png",
+      "image": "tl-elevator-right-3-chunk-7-b685578d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14179,7 +14179,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "tl-elevator-right-3-chunk-8-d7e4be37.png",
+      "image": "tl-elevator-right-3-chunk-8-b685578d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14194,7 +14194,7 @@
     {
       "columns": 6,
       "firstgid": 2049,
-      "image": "tl-elevator-right-3-chunk-9-d7e4be37.png",
+      "image": "tl-elevator-right-3-chunk-9-b685578d.png",
       "imageheight": 192,
       "imagewidth": 192,
       "margin": 0,
@@ -14228,7 +14228,7 @@
     {
       "name": "mapName",
       "type": "string",
-      "value": "Living Systems - Tl Elevator"
+      "value": "Living Systems - Tl Elevator R3"
     },
     {
       "name": "tilesetCopyright",
