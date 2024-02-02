@@ -10031,7 +10031,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "tl-gathering-room-chunk-1-77c03196.png",
+      "image": "tl-gathering-room-chunk-1-360ace5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10107,7 +10107,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "tl-gathering-room-chunk-2-77c03196.png",
+      "image": "tl-gathering-room-chunk-2-360ace5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10122,7 +10122,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "tl-gathering-room-chunk-3-77c03196.png",
+      "image": "tl-gathering-room-chunk-3-360ace5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10137,7 +10137,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "tl-gathering-room-chunk-4-77c03196.png",
+      "image": "tl-gathering-room-chunk-4-360ace5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10152,7 +10152,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "tl-gathering-room-chunk-5-77c03196.png",
+      "image": "tl-gathering-room-chunk-5-360ace5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10167,7 +10167,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "tl-gathering-room-chunk-6-77c03196.png",
+      "image": "tl-gathering-room-chunk-6-360ace5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10182,7 +10182,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "tl-gathering-room-chunk-7-77c03196.png",
+      "image": "tl-gathering-room-chunk-7-360ace5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10197,7 +10197,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "tl-gathering-room-chunk-8-77c03196.png",
+      "image": "tl-gathering-room-chunk-8-360ace5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10212,7 +10212,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "tl-gathering-room-chunk-9-77c03196.png",
+      "image": "tl-gathering-room-chunk-9-360ace5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10227,7 +10227,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "tl-gathering-room-chunk-10-77c03196.png",
+      "image": "tl-gathering-room-chunk-10-360ace5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10242,7 +10242,7 @@
     {
       "columns": 4,
       "firstgid": 2561,
-      "image": "tl-gathering-room-chunk-11-77c03196.png",
+      "image": "tl-gathering-room-chunk-11-360ace5d.png",
       "imageheight": 128,
       "imagewidth": 128,
       "margin": 0,
